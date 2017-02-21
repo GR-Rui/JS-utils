@@ -29,3 +29,6 @@ return(min + Math.round(rand * range));
 }   
 
 console.log(getRandomNum(1,10));
+
+//
+var random = parseInt(Math.random() * 1000000);
